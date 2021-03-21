@@ -7,4 +7,6 @@
 /spec/reports/
 /tmp/
 
+*.gem
+
 TODO.md
