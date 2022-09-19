@@ -1,12 +1,8 @@
 # ContextProvider
 
-This is the Ruby version of the context pattern originally outlined in 
-[React](https://reactjs.org/docs/context.html). 
+This is an implementation of algebraic effect system.
 
-The context patter is a solution for a problem that in React is called prop 
-drilling.
-
-We have found this pattern to be quite useful for Rails applications. 
+We have found this pattern to be quite useful for Rails applications.
 
 ## Installation
 
